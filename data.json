@@ -930,6 +930,7 @@
             "rules": [
                 "ws_ab_test",
                 "btsid",
+                "spm",
                 "algo_expid",
                 "algo_exp_id",
                 "curPageLogUid",
