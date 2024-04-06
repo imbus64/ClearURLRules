@@ -928,6 +928,7 @@
             "urlPattern": "^https?:\\/\\/(?:[a-z0-9-]+\\.)*?aliexpress(?:\\.[a-z]{2,}){1,}",
             "completeProvider": false,
             "rules": [
+                "_t",
                 "ws_ab_test",
                 "btsid",
                 "spm",
