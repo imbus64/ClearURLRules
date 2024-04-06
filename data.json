@@ -928,6 +928,13 @@
             "urlPattern": "^https?:\\/\\/(?:[a-z0-9-]+\\.)*?aliexpress(?:\\.[a-z]{2,}){1,}",
             "completeProvider": false,
             "rules": [
+                "aff",
+                "tid",
+                "aff_fcid",
+                "aff_fsk",
+                "aff_platform",
+                "aff_trace_key",
+                "browser_redirect",
                 "_t",
                 "ws_ab_test",
                 "btsid",
