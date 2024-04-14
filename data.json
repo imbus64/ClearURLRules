@@ -928,6 +928,8 @@
             "urlPattern": "^https?:\\/\\/(?:[a-z0-9-]+\\.)*?aliexpress(?:\\.[a-z]{2,}){1,}",
             "completeProvider": false,
             "rules": [
+                "queryFrom",
+                "osf",
                 "return",
                 "from",
                 "random",
