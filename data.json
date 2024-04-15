@@ -928,6 +928,8 @@
             "urlPattern": "^https?:\\/\\/(?:[a-z0-9-]+\\.)*?aliexpress(?:\\.[a-z]{2,}){1,}",
             "completeProvider": false,
             "rules": [
+                "aem_p4p_detail",
+                "search_p4p_id",
                 "categoryUrlParams",
                 "queryFrom",
                 "osf",
